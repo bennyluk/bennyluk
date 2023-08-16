@@ -9,7 +9,7 @@
 # 👉 who? me?
 👨‍💻 name is benny. im a full stack developer from vancouver, canada.
 
-🔭 I’m currently working on my projects [Sienna](https://bennyluk.github.io/Sienna-Accessibility-Widget/) and [OpenTummy](https://opentummy.ca)
+🔭 I’m currently working on my projects [Sienna](https://bennyluk.github.io/Sienna-Accessibility-Widget/), [OpenTummy](https://opentummy.ca) and SculptX
 
 🌱 I’m currently learning AI Machine Learning 🤖.
 
